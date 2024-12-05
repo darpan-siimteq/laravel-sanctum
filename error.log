@@ -1,0 +1,1 @@
+[Wed Dec 04 15:06:16.067000 2024] [php:error] [pid 71079] [client 127.0.0.1:55342] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /var/www/laravel-sanctum-api/vendor/composer/platform_check.php on line 24
