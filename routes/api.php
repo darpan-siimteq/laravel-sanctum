@@ -40,3 +40,4 @@ Route::group(['middleware'=>'auth:sanctum'],function (){
 Route::get('/example', function () {
     return response()->json(['message' => 'This is an example API route.']);
 });
+
